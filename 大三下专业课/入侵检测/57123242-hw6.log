@@ -1,0 +1,480 @@
+﻿
+========== Date and Time ==========
+
+2026年5月7日 18:11:50
+
+
+
+========== OS Version ==========
+
+WindowsProductName    WindowsVersion OsHardwareAbstractionLayer
+------------------    -------------- --------------------------
+Windows 10 Home China 2009           10.0.26100.1              
+
+
+
+========== Hardware Info (CPU, Memory) ==========
+
+Name                                      NumberOfCores MaxClockSpeed
+----                                      ------------- -------------
+Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz             4          2301
+
+
+Total Physical Memory: 16 GB
+
+========== Uptime ==========
+
+2026年5月3日 12:13:42
+
+
+
+========== Services Information (Running only) ==========
+
+Name                                                   DisplayName                                                     
+----                                                   -----------                                                     
+AESMService                                            Intel® SGX AESM                                                 
+AMD Crash Defender Service                             AMD Crash Defender Service                                      
+AMD External Events Utility                            AMD External Events Utility                                     
+Appinfo                                                Application Information                                         
+AppXSvc                                                AppX Deployment Service (AppXSVC)                               
+ApsInsSvc                                              ApsInsSvc                                                       
+AudioEndpointBuilder                                   Windows Audio Endpoint Builder                                  
+Audiosrv                                               Windows Audio                                                   
+BDESVC                                                 BitLocker Drive Encryption Service                              
+BFE                                                    Base Filtering Engine                                           
+BluetoothUserService_fed32b9                           蓝牙用户支持服务_fed32b9                                                
+BrokerInfrastructure                                   Background Tasks Infrastructure Service                         
+BTAGService                                            蓝牙音频网关服务                                                        
+BthAvctpSvc                                            AVCTP 服务                                                        
+bthserv                                                蓝牙支持服务                                                          
+camsvc                                                 功能访问管理器服务                                                       
+cbdhsvc_fed32b9                                        剪贴板用户服务_fed32b9                                                 
+CDPSvc                                                 连接设备平台服务                                                        
+CDPUserSvc_fed32b9                                     连接设备平台用户服务_fed32b9                                              
+clash_verge_service                                    Clash Verge Service                                             
+ClickToRunSvc                                          Microsoft Office 即点即用服务                                         
+ClipSVC                                                Client License Service (ClipSVC)                                
+CoreMessagingRegistrar                                 CoreMessaging                                                   
+cphs                                                   Intel(R) Content Protection HECI Service                        
+cplspcon                                               Intel(R) Content Protection HDCP Service                        
+CryptSvc                                               Cryptographic Services                                          
+DcomLaunch                                             DCOM Server Process Launcher                                    
+DeviceAssociationService                               Device Association Service                                      
+DevicesFlowUserSvc_fed32b9                             DevicesFlow_fed32b9                                             
+DevQueryBroker                                         DevQuery Background Discovery Broker                            
+Dhcp                                                   DHCP Client                                                     
+DiagTrack                                              Connected User Experiences and Telemetry                        
+DispBrokerDesktopSvc                                   显示策略服务                                                          
+DisplayEnhancementService                              显示增强服务                                                          
+Dnscache                                               DNS Client                                                      
+DolbyDAXAPI                                            Dolby DAX API Service                                           
+DoSvc                                                  Delivery Optimization                                           
+DPS                                                    Diagnostic Policy Service                                       
+drvext                                                 Driver Extension                                                
+DsSvc                                                  Data Sharing Service                                            
+DusmSvc                                                数据使用量                                                           
+EFS                                                    Encrypting File System (EFS)                                    
+esifsvc                                                Intel(R) Dynamic Tuning service                                 
+ETDService                                             ELAN Service                                                    
+EventLog                                               Windows Event Log                                               
+EventSystem                                            COM+ Event System                                               
+FMAPOService                                           Fortemedia APO Control Service                                  
+FontCache                                              Windows Font Cache Service                                      
+FontCache3.0.0.0                                       Windows Presentation Foundation Font Cache 3.0.0.0              
+FoxitPhantomPDFUpdateService                           Foxit PDF Editor Update Service                                 
+FrameServer                                            Windows Camera Frame Server                                     
+HRWSCCtrl                                              Lenovo Windows Security Center                                  
+HvHost                                                 HV 主机服务                                                         
+iaStorAfsService                                       Intel(R) Optane(TM) Memory Service                              
+igccservice                                            Intel(R) Graphics Command Center Service                        
+igfxCUIService2.0.0.0                                  Intel(R) HD Graphics Control Panel Service                      
+ImControllerService                                    System Interface Foundation Service                             
+InstallService                                         Microsoft Store 安装服务                                            
+Intel(R) Capability Licensing Service TCP IP Interface Intel(R) Capability Licensing Service TCP IP Interface          
+InventorySvc                                           清单和兼容性评估服务                                                      
+iphlpsvc                                               IP Helper                                                       
+jhi_service                                            Intel(R) Dynamic Application Loader Host Interface Service      
+KeyIso                                                 CNG Key Isolation                                               
+LanmanServer                                           Server                                                          
+LanmanWorkstation                                      Workstation                                                     
+LAVService                                             LAVService                                                      
+LenovoPcManagerService                                 LenovoPcManagerService                                          
+LenovoServiceAS                                        LenovoServiceAS                                                 
+lfsvc                                                  Geolocation Service                                             
+LicenseManager                                         Windows 许可证管理器服务                                                
+LISFService                                            Lenovo Internet Software Framework Service                      
+LITSSVC                                                Lenovo Notebook ITS Service                                     
+lmhosts                                                TCP/IP NetBIOS Helper                                           
+LMS                                                    Intel(R) Management and Security Application Local Management...
+LnvSvcFdn                                              LnvSvcFdn                                                       
+LSM                                                    Local Session Manager                                           
+McAPExe                                                McAfee AP Service                                               
+McAWFwk                                                McAfee Activation Service                                       
+mccspsvc                                               McAfee CSP Service                                              
+mfemms                                                 McAfee Service Controller                                       
+mfevtp                                                 McAfee Validation Trust Protection Service                      
+ModuleCoreService                                      McAfee Module Core Service                                      
+mpssvc                                                 Windows Defender Firewall                                       
+NcbService                                             Network Connection Broker                                       
+NdlSvc                                                 NdlSvc                                                          
+Netman                                                 Network Connections                                             
+netprofm                                               Network List Service                                            
+NetSetupSvc                                            Network Setup Service                                           
+NgcCtnrSvc                                             Microsoft Passport Container                                    
+NgcSvc                                                 Microsoft Passport                                              
+NPSMSvc_fed32b9                                        正在播放会话管理器服务_fed32b9                                             
+nsi                                                    Network Store Interface Service                                 
+OfficePLUS Service                                     OfficePLUS Service                                              
+OneSyncSvc_fed32b9                                     同步主机_fed32b9                                                    
+PcaSvc                                                 Program Compatibility Assistant Service                         
+PCManager Service Store                                Microsoft PC Manager Service                                    
+PEFService                                             McAfee PEF Service                                              
+PenService_fed32b9                                     PenService_fed32b9                                              
+PhoneSvc                                               Phone Service                                                   
+PlugPlay                                               Plug and Play                                                   
+Power                                                  Power                                                           
+ProfSvc                                                User Profile Service                                            
+QWAVE                                                  Quality Windows Audio Video Experience                          
+RasMan                                                 Remote Access Connection Manager                                
+RmSvc                                                  无线电管理服务                                                         
+RpcEptMapper                                           RPC Endpoint Mapper                                             
+RpcLocator                                             Remote Procedure Call (RPC) Locator                             
+RpcSs                                                  Remote Procedure Call (RPC)                                     
+RstMwService                                           Intel(R) Storage Middleware Service                             
+RtkAudioUniversalService                               Realtek Audio Universal Service                                 
+SamSs                                                  Security Accounts Manager                                       
+Schedule                                               Task Scheduler                                                  
+seclogon                                               Secondary Logon                                                 
+SecurityHealthService                                  Windows 安全中心服务                                                  
+SENS                                                   System Event Notification Service                               
+SensorService                                          Sensor Service                                                  
+SessionSvc                                             Session Detection                                               
+ShellHWDetection                                       Shell Hardware Detection                                        
+SLBService                                             SLBService                                                      
+Spooler                                                Print Spooler                                                   
+SSDPSRV                                                SSDP Discovery                                                  
+SstpSvc                                                Secure Socket Tunneling Protocol Service                        
+StateRepository                                        State Repository Service                                        
+StiSvc                                                 Windows Image Acquisition (WIA)                                 
+StorSvc                                                Storage Service                                                 
+swprv                                                  Microsoft Software Shadow Copy Provider                         
+SysMain                                                SysMain                                                         
+SystemEventsBroker                                     System Events Broker                                            
+TextInputManagementService                             Text Input Management Service                                   
+Themes                                                 Themes                                                          
+TimeBrokerSvc                                          Time Broker                                                     
+TokenBroker                                            Web 帐户管理器                                                       
+TrkWks                                                 Distributed Link Tracking Client                                
+TrustedInstaller                                       Windows Modules Installer                                       
+UdkUserSvc_fed32b9                                     Udk 用户服务_fed32b9                                                
+UserManager                                            User Manager                                                    
+UsoSvc                                                 更新 Orchestrator 服务                                              
+VaultSvc                                               Credential Manager                                              
+VMnetDHCP                                              VMware DHCP Service                                             
+VMUSBArbService                                        VMware USB Arbitration Service                                  
+VMware NAT Service                                     VMware NAT Service                                              
+VSS                                                    Volume Shadow Copy                                              
+W32Time                                                Windows Time                                                    
+Wcmsvc                                                 Windows Connection Manager                                      
+WdiServiceHost                                         Diagnostic Service Host                                         
+WdiSystemHost                                          Diagnostic System Host                                          
+webthreatdefusersvc_fed32b9                            Web 威胁防御用户服务_fed32b9                                            
+WerSvc                                                 Windows Error Reporting Service                                 
+whesvc                                                 Windows 健康状况和优化体验                                               
+WinHttpAutoProxySvc                                    WinHTTP Web Proxy Auto-Discovery Service                        
+Winmgmt                                                Windows Management Instrumentation                              
+WlanSvc                                                WLAN AutoConfig                                                 
+wlidsvc                                                Microsoft Account Sign-in Assistant                             
+wmiApSrv                                               WMI Performance Adapter                                         
+WpnService                                             Windows 推送通知系统服务                                                
+WpnUserService_fed32b9                                 Windows Push Notifications User Service_fed32b9                 
+WSAIFabricSvc                                          WSAIFabricSvc                                                   
+wscsvc                                                 安全中心                                                            
+WSearch                                                Windows Search                                                  
+wuauserv                                               Windows 更新                                                      
+wuqisvc                                                Microsoft 使用情况和质量见解                                             
+
+
+
+========== NIC Information ==========
+
+Name                          InterfaceDescription                       LinkSpeed
+----                          --------------------                       ---------
+VMware Network Adapter VMnet1 VMware Virtual Ethernet Adapter for VMnet1 100 Mbps 
+WLAN                          Intel(R) Wireless-AC 9560 160MHz           200 Mbps 
+VMware Network Adapter VMnet8 VMware Virtual Ethernet Adapter for VMnet8 100 Mbps 
+
+
+
+========== Route Information ==========
+
+DestinationPrefix                           NextHop                 RouteMetric
+-----------------                           -------                 -----------
+255.255.255.255/32                          0.0.0.0                         256
+255.255.255.255/32                          0.0.0.0                         256
+255.255.255.255/32                          0.0.0.0                         256
+255.255.255.255/32                          0.0.0.0                         256
+255.255.255.255/32                          0.0.0.0                         256
+255.255.255.255/32                          0.0.0.0                         256
+255.255.255.255/32                          0.0.0.0                         256
+255.255.255.255/32                          0.0.0.0                         256
+224.0.0.0/4                                 0.0.0.0                         256
+224.0.0.0/4                                 0.0.0.0                         256
+224.0.0.0/4                                 0.0.0.0                         256
+224.0.0.0/4                                 0.0.0.0                         256
+224.0.0.0/4                                 0.0.0.0                         256
+224.0.0.0/4                                 0.0.0.0                         256
+224.0.0.0/4                                 0.0.0.0                         256
+224.0.0.0/4                                 0.0.0.0                         256
+192.168.150.255/32                          0.0.0.0                         256
+192.168.150.1/32                            0.0.0.0                         256
+192.168.150.0/24                            0.0.0.0                         256
+192.168.79.255/32                           0.0.0.0                         256
+192.168.79.1/32                             0.0.0.0                         256
+192.168.79.0/24                             0.0.0.0                         256
+127.255.255.255/32                          0.0.0.0                         256
+127.0.0.1/32                                0.0.0.0                         256
+127.0.0.0/8                                 0.0.0.0                         256
+10.208.127.255/32                           0.0.0.0                         256
+10.208.72.70/32                             0.0.0.0                         256
+10.208.64.0/18                              0.0.0.0                         256
+0.0.0.0/0                                   10.208.64.1                       0
+ff00::/8                                    ::                              256
+ff00::/8                                    ::                              256
+ff00::/8                                    ::                              256
+ff00::/8                                    ::                              256
+ff00::/8                                    ::                              256
+ff00::/8                                    ::                              256
+ff00::/8                                    ::                              256
+ff00::/8                                    ::                              256
+fe80::f490:2641:4553:950a/128               ::                              256
+fe80::dfab:ca87:d67c:6e22/128               ::                              256
+fe80::d7fd:b16e:cfa9:e828/128               ::                              256
+fe80::cdc1:e48c:8871:4e8d/128               ::                              256
+fe80::8c28:d832:ba6e:15da/128               ::                              256
+fe80::46ab:bd17:f159:f8b6/128               ::                              256
+fe80::2877:6edd:a460:f585/128               ::                              256
+fe80::/64                                   ::                              256
+fe80::/64                                   ::                              256
+fe80::/64                                   ::                              256
+fe80::/64                                   ::                              256
+fe80::/64                                   ::                              256
+fe80::/64                                   ::                              256
+fe80::/64                                   ::                              256
+240c:c603:1005:dcfe:d467:9031:2237:7367/128 ::                              256
+240c:c603:1005:dcfe:459a:b122:3a07:4111/128 ::                              256
+240c:c603:1005:dcfe::/64                    ::                              256
+::1/128                                     ::                              256
+::/0                                        fe80::200:5eff:fe00:101         256
+
+
+
+========== ARP Information ==========
+
+IPAddress                 LinkLayerAddress        State
+---------                 ----------------        -----
+ff02::1:ff60:f585         33-33-FF-60-F5-85   Permanent
+ff02::1:ff1f:e26e         33-33-FF-1F-E2-6E   Permanent
+ff02::1:3                 33-33-00-01-00-03   Permanent
+ff02::1:2                 33-33-00-01-00-02   Permanent
+ff02::fb                  33-33-00-00-00-FB   Permanent
+ff02::16                  33-33-00-00-00-16   Permanent
+ff02::2                   33-33-00-00-00-02   Permanent
+ff02::1                   33-33-00-00-00-01   Permanent
+ff02::1:ffa9:e828         33-33-FF-A9-E8-28   Permanent
+ff02::1:ff1f:e26e         33-33-FF-1F-E2-6E   Permanent
+ff02::1:3                 33-33-00-01-00-03   Permanent
+ff02::1:2                 33-33-00-01-00-02   Permanent
+ff02::fb                  33-33-00-00-00-FB   Permanent
+ff02::16                  33-33-00-00-00-16   Permanent
+ff02::2                   33-33-00-00-00-02   Permanent
+ff02::1                   33-33-00-00-00-01   Permanent
+ff05::c                   33-33-00-00-00-0C   Permanent
+ff02::1:ffbb:dc4b         33-33-FF-BB-DC-4B   Permanent
+ff02::1:ff1f:e26e         33-33-FF-1F-E2-6E   Permanent
+ff02::1:3                 33-33-00-01-00-03   Permanent
+ff02::1:2                 33-33-00-01-00-02   Permanent
+ff02::16                  33-33-00-00-00-16   Permanent
+ff02::2                   33-33-00-00-00-02   Permanent
+fe80::d7fd:b16e:cfa9:e828 00-00-00-00-00-00 Unreachable
+fe80::2877:6edd:a460:f585 00-00-00-00-00-00 Unreachable
+fe80::200:5eff:fe00:103   00-00-00-00-00-00 Unreachable
+fe80::1                   00-00-00-00-00-00 Unreachable
+ff02::1:ffbb:dc4b         33-33-FF-BB-DC-4B   Permanent
+ff02::1:ff1f:e26e         33-33-FF-1F-E2-6E   Permanent
+ff02::1:3                 33-33-00-01-00-03   Permanent
+ff02::1:2                 33-33-00-01-00-02   Permanent
+ff02::16                  33-33-00-00-00-16   Permanent
+fe80::d7fd:b16e:cfa9:e828 00-00-00-00-00-00 Unreachable
+fe80::2877:6edd:a460:f585 00-00-00-00-00-00 Unreachable
+fe80::200:5eff:fe00:103   00-00-00-00-00-00 Unreachable
+ff02::1:ffbb:dc4b         33-33-FF-BB-DC-4B   Permanent
+ff02::1:ff1f:e26e         33-33-FF-1F-E2-6E   Permanent
+ff02::1:3                 33-33-00-01-00-03   Permanent
+ff02::1:2                 33-33-00-01-00-02   Permanent
+ff02::16                  33-33-00-00-00-16   Permanent
+fe80::d7fd:b16e:cfa9:e828 00-00-00-00-00-00 Unreachable
+fe80::2877:6edd:a460:f585 00-00-00-00-00-00 Unreachable
+fe80::200:5eff:fe00:103   00-00-00-00-00-00 Unreachable
+ff05::c                   33-33-00-00-00-0C   Permanent
+ff02::1:ffbb:dc4b         33-33-FF-BB-DC-4B   Permanent
+ff02::1:ff1f:e26e         33-33-FF-1F-E2-6E   Permanent
+ff02::1:3                 33-33-00-01-00-03   Permanent
+ff02::1:2                 33-33-00-01-00-02   Permanent
+ff02::16                  33-33-00-00-00-16   Permanent
+ff02::2                   33-33-00-00-00-02   Permanent
+fe80::d7fd:b16e:cfa9:e828 00-00-00-00-00-00 Unreachable
+fe80::2877:6edd:a460:f585 00-00-00-00-00-00 Unreachable
+fe80::200:5eff:fe00:103   00-00-00-00-00-00 Unreachable
+fe80::1                   00-00-00-00-00-00 Unreachable
+ff02::1:ff89:3782         33-33-FF-89-37-82   Permanent
+ff02::1:ff71:4e8d         33-33-FF-71-4E-8D   Permanent
+ff02::1:ff37:7367         33-33-FF-37-73-67   Permanent
+ff02::1:ff1f:e26e         33-33-FF-1F-E2-6E   Permanent
+ff02::1:ff07:4111         33-33-FF-07-41-11   Permanent
+ff02::1:ff00:101          33-33-FF-00-01-01   Permanent
+ff02::1:3                 33-33-00-01-00-03   Permanent
+ff02::1:2                 33-33-00-01-00-02   Permanent
+ff02::fb                  33-33-00-00-00-FB   Permanent
+ff02::16                  33-33-00-00-00-16   Permanent
+ff02::2                   33-33-00-00-00-02   Permanent
+ff02::1                   33-33-00-00-00-01   Permanent
+fe80::ba8e:b0ff:fe85:6973 00-00-00-00-00-00 Unreachable
+fe80::200:5eff:fe00:103   00-00-00-00-00-00 Unreachable
+fe80::200:5eff:fe00:101   00-00-5E-00-01-01   Reachable
+fe80::1                   00-00-00-00-00-00 Unreachable
+ff05::c                                       Permanent
+ff02::1:ffbb:dc4b                             Permanent
+ff02::1:ff1f:e26e                             Permanent
+ff02::1:3                                     Permanent
+ff02::1:2                                     Permanent
+ff02::16                                      Permanent
+ff02::2                                       Permanent
+255.255.255.255           FF-FF-FF-FF-FF-FF   Permanent
+239.255.255.250           01-00-5E-7F-FF-FA   Permanent
+224.0.0.252               01-00-5E-00-00-FC   Permanent
+224.0.0.251               01-00-5E-00-00-FB   Permanent
+224.0.0.22                01-00-5E-00-00-16   Permanent
+224.0.0.2                 01-00-5E-00-00-02   Permanent
+192.168.79.255            FF-FF-FF-FF-FF-FF   Permanent
+192.168.79.254            00-50-56-F1-8D-66       Stale
+192.168.79.2              00-00-00-00-00-00 Unreachable
+255.255.255.255           FF-FF-FF-FF-FF-FF   Permanent
+239.255.255.250           01-00-5E-7F-FF-FA   Permanent
+224.0.0.252               01-00-5E-00-00-FC   Permanent
+224.0.0.251               01-00-5E-00-00-FB   Permanent
+224.0.0.22                01-00-5E-00-00-16   Permanent
+224.0.0.2                 01-00-5E-00-00-02   Permanent
+192.168.150.255           FF-FF-FF-FF-FF-FF   Permanent
+192.168.150.254           00-50-56-F5-6A-7C       Stale
+239.255.255.250           01-00-5E-7F-FF-FA   Permanent
+239.192.152.143           01-00-5E-40-98-8F   Permanent
+224.0.0.252               01-00-5E-00-00-FC   Permanent
+224.0.0.22                01-00-5E-00-00-16   Permanent
+224.0.0.2                 01-00-5E-00-00-02   Permanent
+224.0.0.252               01-00-5E-00-00-FC   Permanent
+224.0.0.22                01-00-5E-00-00-16   Permanent
+224.0.0.2                 01-00-5E-00-00-02   Permanent
+224.0.0.252               01-00-5E-00-00-FC   Permanent
+224.0.0.22                01-00-5E-00-00-16   Permanent
+224.0.0.2                 01-00-5E-00-00-02   Permanent
+239.255.255.250           01-00-5E-7F-FF-FA   Permanent
+239.192.152.143           01-00-5E-40-98-8F   Permanent
+224.0.0.252               01-00-5E-00-00-FC   Permanent
+224.0.0.22                01-00-5E-00-00-16   Permanent
+224.0.0.2                 01-00-5E-00-00-02   Permanent
+255.255.255.255           FF-FF-FF-FF-FF-FF   Permanent
+239.255.255.250           01-00-5E-7F-FF-FA   Permanent
+224.0.0.252               01-00-5E-00-00-FC   Permanent
+224.0.0.251               01-00-5E-00-00-FB   Permanent
+224.0.0.22                01-00-5E-00-00-16   Permanent
+224.0.0.2                 01-00-5E-00-00-02   Permanent
+192.168.1.253             00-00-00-00-00-00 Unreachable
+192.168.1.251             00-00-00-00-00-00 Unreachable
+192.168.1.223             00-00-00-00-00-00 Unreachable
+192.168.1.203             00-00-00-00-00-00 Unreachable
+192.168.1.129             00-00-00-00-00-00 Unreachable
+192.168.1.128             00-00-00-00-00-00 Unreachable
+192.168.1.100             00-00-00-00-00-00 Unreachable
+192.168.1.95              00-00-00-00-00-00 Unreachable
+192.168.1.82              00-00-00-00-00-00 Unreachable
+192.168.1.76              00-00-00-00-00-00 Unreachable
+192.168.1.65              00-00-00-00-00-00 Unreachable
+192.168.1.30              00-00-00-00-00-00 Unreachable
+192.168.1.13              00-00-00-00-00-00 Unreachable
+192.168.1.11              00-00-00-00-00-00 Unreachable
+192.168.1.9               00-00-00-00-00-00 Unreachable
+192.168.1.8               00-00-00-00-00-00 Unreachable
+192.168.1.7               00-00-00-00-00-00 Unreachable
+192.168.1.5               00-00-00-00-00-00 Unreachable
+192.168.1.4               00-00-00-00-00-00 Unreachable
+192.168.1.1               00-00-00-00-00-00 Unreachable
+10.208.127.255            FF-FF-FF-FF-FF-FF   Permanent
+10.208.77.160             00-00-5E-00-01-01   Reachable
+10.208.72.62              00-00-00-00-00-00 Unreachable
+10.208.64.1               00-00-5E-00-01-01   Reachable
+10.203.128.1              00-00-00-00-00-00 Unreachable
+239.255.255.250                               Permanent
+239.192.152.143                               Permanent
+224.0.0.252                                   Permanent
+224.0.0.22                                    Permanent
+224.0.0.2                                     Permanent
+
+
+
+========== Process Information (Top 50 by CPU) ==========
+
+Name                                 CPU WorkingSet    Id
+----                                 --- ----------    --
+iaStorAfsService            45026.515625    6803456  6340
+System                      29880.828125    4485120     4
+FoxitPDFEditorUpdateService  2825.265625    2510848  6392
+MfeAVSvc                      2044.96875   82628608  5696
+svchost                       1692.03125   14434304  4292
+svchost                           957.25   24858624 11096
+MSPCManagerService            849.453125   58445824 11172
+svchost                       770.859375   86257664 11104
+mcshield                      669.609375   41701376 10668
+svchost                       664.671875   25325568  6548
+svchost                       522.296875   45551616  7824
+svchost                        435.09375   58970112  6124
+svchost                       409.921875   22540288  6368
+WUDFHost                       396.53125    7307264  2872
+svchost                       357.765625   20336640  2748
+Memory Compression               338.375  375984128  4872
+svchost                       327.109375   37175296  5772
+svchost                       309.765625   10252288  4652
+lsass                           291.3125   29396992  2440
+svchost                       274.890625   38072320  2584
+svchost                       261.640625   34127872  5440
+svchost                       214.796875    7688192  5928
+services                       198.90625   11591680  2420
+svchost                       142.953125   13664256  3616
+ModuleCoreService             140.640625   42487808 10128
+svchost                       126.015625   17915904  3784
+svchost                           121.75    7311360  4704
+msedgewebview2                  118.9375  147845120  6832
+SearchIndexer                 118.421875   42213376 17648
+LAVService                     115.71875  178851840 30476
+svchost                        114.84375    6168576  4548
+MMSSHOST                         114.125   27947008  8168
+msedgewebview2                    111.25   82968576 18252
+svchost                           100.75   25088000 10156
+MSOfficePLUSService             89.21875   26537984  6440
+mfemms                           86.8125   14372864  6540
+Lenovo.Modern.ImController      83.53125   37666816  6348
+svchost                           79.375   20533248  5724
+csrss                           77.28125    4050944  2172
+dwm                                 75.5  155738112  9260
+svchost                        71.296875   28950528  7612
+svchost                         65.90625   41021440  4228
+explorer                        63.15625  397926400 14132
+svchost                        55.390625   17203200  5980
+svchost                        55.046875   13447168  3356
+OfficeClickToRun                  52.375   37023744 19788
+FMService64                    48.421875    4472832  6316
+LenovoPcManagerService                45   16015360  6324
+svchost                        44.078125   17797120  3760
+svchost                        43.734375   14643200  3868
+
+
